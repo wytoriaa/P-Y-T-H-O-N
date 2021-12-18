@@ -22,4 +22,4 @@ numPeca2 = int(numPeca2)
 valorPeca2 = float(valorPeca2)
 
 calc = (numPeca1*valorPeca1) + (numPeca2*valorPeca2)
-print("VALOR A PAGAR: R$ {}".format(calc))
+print("VALOR A PAGAR: R$ {:.2f}".format(calc))
