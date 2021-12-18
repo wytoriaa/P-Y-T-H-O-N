@@ -13,7 +13,7 @@
 # com um espaço antes e um espaço depois da igualdade. O valor deverá ser apresentado com 3 casas após o ponto.
 
 raio = float(input())
-pi = float(input())
+pi = 3.14159
 volume = (4/3)*pi*(raio**3)
 
 print('VOLUME = {:.3f}'.format(volume))
