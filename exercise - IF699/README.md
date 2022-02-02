@@ -1,0 +1,2 @@
+this repository is intended for the resolutions of the exercises proposed in the discipline of introduction to programming (IF699) 
+offered for the courses of information systems and computer sciences at CIN -  UFPE
