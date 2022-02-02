@@ -1,6 +1,5 @@
 <div align="center" >
-<h1 align="center">mundinho Python BR <img src="https://img.icons8.com/color/48/000000/python--v1.png"/>🌟  </h1>
-<p>por ver a necessidade do mercado, por ser uma linguagem de programação não muito dificil, <b><i>resolvi colocar neste respositório todo meu aprendizado em python</b></i>.
- <br> encontraremos aqui tudo que for importante e necessário para aprender. <i>apesar de já possuir conhecimento prévio</i>, irei revisar conteudos básico e assim alimentarei
-essa sessão com tudo o que eu achar de importante em relação a linguagem python. espero que possa ajudar alguém.</p>
+<h1 align="center">little python world BR <img src="https://img.icons8.com/color/48/000000/python--v1.png"/>🌟  </h1>
+<p>for being a not very difficult programming language, I decided to put all my python learning in this repository.
+we will find here everything that is important and necessary to learn. despite already having previous knowledge, I will review basic content and so I will feed this session with everything I think is important in relation to the python language. hope it can help someone.</p>
 </div>
